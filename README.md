@@ -41,7 +41,7 @@ Here are some facts of me:
 [![GitHub Streak](https://streak-stats.demolab.com?user=charent&theme=whatsapp-light&date_format=%5BY.%5Dn.j&mode=weekly&card_width=960)](https://git.io/streak-stats)
 
 
-| ![Charent's GitHub stats](https://github-readme-stats.vercel.app/api?username=charent&show_icons=true&&rank_icon=github&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charent&langs_count=5&hide_border=true) |
+| ![Charent's GitHub stats](https://github-readme-stats.vercel.app/api?username=charent&show_icons=true&&rank_icon=github&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charent&hide=scss,TypeScript,JavaScript&langs_count=5&hide_border=true) |
 |:------:|:------:|
 
 <!-- [![Charent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charent&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
