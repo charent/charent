@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 Here are some facts of me:
-- 🔭 I’m currently working on: machine learning/deep learning, risk control, data mining and algorithm.
-- 🌱 I'm also working on those dictions of NLP: text classification, information extraction and text generation.
+- 🔭 I’m currently working on: machine learning / deep learning,  data analysis / risk control / data mining, and algorithm.
+- 🌱 I'm also working on those directions of NLP: text classification, information extraction and text generation.
 - 📫 ······
 
 
