@@ -31,9 +31,9 @@ Here are some facts of me:
 ### My skills 🛠️
 
 - **Languages**:      
-  - Python, SQL, Shell, C++, golang.
+  - Python, SQL, Shell, C++, a little Golang and a little Java.
 - **Frameworks**:
-  - PyTorch, Spark, Hive.
+  - PyTorch, Huggingface's NLP framework, Pandas & Numpy, PySpark, Hive.
 - **Developments**:
   - Linux, Git, Docker, VSCode, Markdown.
 
