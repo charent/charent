@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 ### Hi there 👋
-
-Here are some facts of me:
+Thanks for visiting my Github Page. Here are some facts about me:    
 - 🔭 I’m currently working on: machine learning / deep learning,  data analysis / risk control / data mining, and algorithm.
 - 🌱 I'm also working on those directions of NLP: text classification, information extraction and text generation.
+- 🔬 I'm now interesting in how to get high-quality text for training language models (for examples, text-to-text model such as T5, causal language model such as GPT2 / Phi), and how to speedy up LLM (Large Language Model) training, fine-tune and inference.
 - 📫 ······
 
 
@@ -38,14 +38,15 @@ Here are some facts of me:
   - Linux, Git, Docker, VSCode, Markdown.
 
 ### Contributes 🧑‍💻
-[![GitHub Streak](https://streak-stats.demolab.com?user=charent&theme=whatsapp-light&date_format=%5BY.%5Dn.j&mode=weekly&card_width=960)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=charent&theme=whatsapp-light&date_format=%5BY.%5Dn.j&mode=weekly&card_width=875)](https://git.io/streak-stats)
 
 
-| ![Charent's GitHub stats](https://github-readme-stats.vercel.app/api?username=charent&show_icons=true&rank_icon=github&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charent&hide=scss,TypeScript,JavaScript,Vue&langs_count=5&hide_border=true) |
+| &nbsp; &nbsp;![Charent's GitHub stats](https://github-readme-stats.vercel.app/api?username=charent&show_icons=true&rank_icon=github&hide_border=true) &nbsp;&nbsp;| &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charent&hide=scss,TypeScript,JavaScript,Vue&langs_count=6&hide_border=true&layout=compact) &nbsp;&nbsp; |
 |:------:|:------:|
 
-<!-- [![Charent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charent&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- ![Charent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charent&theme=github-compact) -->
 
 #### Links 🔗
-- [个人博客](https://charent.github.io/)
-- [Gitee](https://gitee.com/charent)
+- [🖥️个人博客](https://charent.github.io/)
+- [✏️Gitee](https://gitee.com/charent)
