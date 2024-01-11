@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Thanks for visiting my Github Page. Here are some facts about me:    
 - 🔭 I’m currently working on: machine learning / deep learning,  data analysis / risk control / data mining, and algorithm.
 - 🌱 I'm also working on those directions of NLP: text classification, information extraction and text generation.
-- 🔬 I'm now interesting in how to get high-quality text for training language models (for examples, text-to-text model such as T5, causal language model such as GPT2 / Phi), and how to speedy up LLM (Large Language Model) training, fine-tune and inference.
+- 🔬 I'm now interesting in how to get high-quality text for training language models (for examples, text-to-text model such as T5, causal language model such as GPT2 / Phi), and how to speedy up LLM (Large Language Model) training, fine-tune and inference. In addition, the application of LLM in vertical fields is also a very interesting direction, such as RAG (Retrieval Augmented Generation).
 - 📫 ······
 
 
@@ -39,7 +39,7 @@ Thanks for visiting my Github Page. Here are some facts about me:
 
 ### Contributes 🧑‍💻
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charent&theme=whatsapp-light&date_format=%5BY.%5Dn.j&mode=weekly&card_width=875)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charent&theme=github-light&date_format=%5BY.%5Dn.j&mode=weekly&card_width=875)](https://git.io/streak-stats)
 
 
 | &nbsp; &nbsp;![Charent's GitHub stats](https://github-readme-stats.vercel.app/api?username=charent&show_icons=true&rank_icon=github&hide_border=true) &nbsp;&nbsp;| &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charent&hide=scss,TypeScript,JavaScript,Vue&langs_count=6&hide_border=true&layout=compact) &nbsp;&nbsp; |
