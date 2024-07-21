@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 Thanks for visiting my Github Page. Here are some facts about me:    
-- 🔭 I’m currently working on: LLM(Large Language Model) landing application and nference acceleration, optimize the performance of deep learning models for specific scenarios. My previous main work was data analysis, risk control, data mining, machine learning, and algorithm.
+- 🔭 I’m currently working on: LLM(Large Language Model) landing application and inference acceleration, optimize the performance of deep learning models for specific scenarios. My previous main work was data analysis, risk control, data mining, machine learning, and algorithm.
 - 🌱 I'm also working on those directions of NLP: text classification, information extraction and text generation.
-- 🔬 I'm now interesting in how to get high-quality text for training language models (for examples, text-to-text model such as T5, causal language model such as GPT2 / Qwen / llama3), and how to speedy up LLM training, fine-tune and inference. In addition, the application of LLM in vertical fields is also a very interesting direction, such as RAG (Retrieval Augmented Generation) and information extraction.
+- 🔬 I'm now interesting in how to get high-quality text for training language models (for examples, text-to-text model such as T5, causal language model such as GPT2 / Qwen / LLaMA3), and how to speedy up LLM training, fine-tune and inference, like DeepSpeed and VLLM. In addition, the application of LLM in vertical fields is also a very interesting direction, such as RAG (Retrieval Augmented Generation) and information extraction.
 - 📫 ······
 
 
